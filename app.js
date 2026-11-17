@@ -1,4 +1,7 @@
-// task 1
+// Javascript Task
+
+
+// Task 1
 
 // var num = prompt("enter any Number");
 
@@ -9,7 +12,7 @@
 //     alert("Number is Not divisible by 3")
 // }
 
-// task 2
+// Task 2
 
     // var num = prompt('Enter any number');
 
@@ -20,7 +23,7 @@
     //     alert("odd Number")
     // }
 
-// task 3
+// Task 3
 
 // var age = prompt("Enter your age");
 
